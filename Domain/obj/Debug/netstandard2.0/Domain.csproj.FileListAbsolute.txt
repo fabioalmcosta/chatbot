@@ -1,9 +1,0 @@
-D:\dev\chatBot-api\Domain\bin\Debug\netstandard2.0\Domain.deps.json
-D:\dev\chatBot-api\Domain\bin\Debug\netstandard2.0\Domain.dll
-D:\dev\chatBot-api\Domain\bin\Debug\netstandard2.0\Domain.pdb
-D:\dev\chatBot-api\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
-D:\dev\chatBot-api\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
-D:\dev\chatBot-api\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
-D:\dev\chatBot-api\Domain\obj\Debug\netstandard2.0\Domain.dll
-D:\dev\chatBot-api\Domain\obj\Debug\netstandard2.0\Domain.pdb
-D:\dev\chatBot-api\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache

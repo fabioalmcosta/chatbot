@@ -98,6 +98,9 @@ namespace Service.Services
                 else
                 {
                     var toUser = await _userRepository.GetByIdAsync(message.ToId);
+
+                    if (toUser == null) throw new HttpStatusException(HttpStatusCode.NotFound, "Target user not found!");
+
                     var chatMessage = new ChatMessage()
                     {
                         Date = DateTime.Now,
