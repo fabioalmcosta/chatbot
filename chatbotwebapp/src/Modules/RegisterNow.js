@@ -136,7 +136,7 @@ const Component = (props) => {
             w="100%"
             type="submit"
           >
-            Login
+            Register
           </Button>
           <Box mt={2}>
             Or

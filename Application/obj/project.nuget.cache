@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EJdkyGlkBPT+rYjww+e7DeergUJaEfHLOKlJ6hucxYwgU9k3ZJpc/mBYbfVNjDrXSIrxhzGz6GL1DuJqUzfQ4Q==",
+  "dgSpecHash": "0us9ussGe0FkcyHN/YRGn72ZL6Hmbkbn+tLTjSOpWYblMDrvZuIL3C+7x9KXpPQyyfFE7W7f+n99tLA1/4ip3Q==",
   "success": true,
-  "projectFilePath": "D:\\Pessoal\\ChatBotBackend\\Application\\Application.csproj",
+  "projectFilePath": "D:\\Pessoal\\chatbot\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facosta\\.nuget\\packages\\fluentmigrator\\3.2.14\\fluentmigrator.3.2.14.nupkg.sha512",
     "C:\\Users\\facosta\\.nuget\\packages\\fluentmigrator.abstractions\\3.2.14\\fluentmigrator.abstractions.3.2.14.nupkg.sha512",

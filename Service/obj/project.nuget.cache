@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nGCK+OREdsEsuhcCeiS4OQPiBglWArVptA8ayc/icBGkM8i2J+Q8CeJ76M1m6qG7NyT927Q9Q6KJfFVWIWS2WQ==",
+  "dgSpecHash": "DzZnTiEPyxh/wT7RQbUV6LeKmSupK5r48morThPnI7JaM6WrtnTanoXSyYcJ/mE1ziOJXtWXet+HjKiUpOtvkQ==",
   "success": true,
-  "projectFilePath": "D:\\Pessoal\\ChatBotBackend\\Service\\Service.csproj",
+  "projectFilePath": "D:\\Pessoal\\chatbot\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facosta\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.3\\microsoft.aspnetcore.authentication.jwtbearer.5.0.3.nupkg.sha512",
     "C:\\Users\\facosta\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

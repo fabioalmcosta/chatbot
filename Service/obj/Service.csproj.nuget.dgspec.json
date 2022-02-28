@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pessoal\\ChatBotBackend\\Service\\Service.csproj": {}
+    "D:\\Pessoal\\chatbot\\Service\\Service.csproj": {}
   },
   "projects": {
-    "D:\\Pessoal\\ChatBotBackend\\Domain\\Domain.csproj": {
+    "D:\\Pessoal\\chatbot\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pessoal\\ChatBotBackend\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Pessoal\\chatbot\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Pessoal\\ChatBotBackend\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Pessoal\\chatbot\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\facosta\\.nuget\\packages\\",
-        "outputPath": "D:\\Pessoal\\ChatBotBackend\\Domain\\obj\\",
+        "outputPath": "D:\\Pessoal\\chatbot\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\Pessoal\\ChatBotBackend\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Pessoal\\chatbot\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pessoal\\ChatBotBackend\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Pessoal\\chatbot\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Pessoal\\ChatBotBackend\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\Pessoal\\chatbot\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\facosta\\.nuget\\packages\\",
-        "outputPath": "D:\\Pessoal\\ChatBotBackend\\Infrastructure\\obj\\",
+        "outputPath": "D:\\Pessoal\\chatbot\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -96,8 +96,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Pessoal\\ChatBotBackend\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Pessoal\\ChatBotBackend\\Domain\\Domain.csproj"
+              "D:\\Pessoal\\chatbot\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Pessoal\\chatbot\\Domain\\Domain.csproj"
               }
             }
           }
@@ -136,14 +136,14 @@
         }
       }
     },
-    "D:\\Pessoal\\ChatBotBackend\\Service\\Service.csproj": {
+    "D:\\Pessoal\\chatbot\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pessoal\\ChatBotBackend\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\Pessoal\\chatbot\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "D:\\Pessoal\\ChatBotBackend\\Service\\Service.csproj",
+        "projectPath": "D:\\Pessoal\\chatbot\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\facosta\\.nuget\\packages\\",
-        "outputPath": "D:\\Pessoal\\ChatBotBackend\\Service\\obj\\",
+        "outputPath": "D:\\Pessoal\\chatbot\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -164,11 +164,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Pessoal\\ChatBotBackend\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Pessoal\\ChatBotBackend\\Domain\\Domain.csproj"
+              "D:\\Pessoal\\chatbot\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Pessoal\\chatbot\\Domain\\Domain.csproj"
               },
-              "D:\\Pessoal\\ChatBotBackend\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\Pessoal\\ChatBotBackend\\Infrastructure\\Infrastructure.csproj"
+              "D:\\Pessoal\\chatbot\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Pessoal\\chatbot\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

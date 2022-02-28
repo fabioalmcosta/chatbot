@@ -1,7 +1,5 @@
 ﻿using Domain.Entities;
-using Domain.Models.User;
 using Microsoft.AspNetCore.SignalR;
-using Service.Hubs.Interfaces;
 using Service.Services.Interfaces;
 using System.Text.Json;
 using System.Threading.Tasks;

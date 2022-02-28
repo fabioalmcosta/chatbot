@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aWKkwNANsok2R3MKOtoC/K6K7bN04wZpoPYgno/o8dw4vfaofhGNInVzBMCfLvZY42Hoe1h5rimf2nhFIozTAQ==",
+  "dgSpecHash": "TGkz6hDNegcr0g3SEXghO50iYPjviPRXYvks6VUPqlavbvY8aj7eprDZsYGzHO5/tF1uR1ffxNBTvSoCG/xQ7Q==",
   "success": true,
-  "projectFilePath": "D:\\Pessoal\\ChatBotBackend\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Pessoal\\chatbot\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facosta\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],

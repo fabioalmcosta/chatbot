@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WjgVKiYRyQ/zxoMq6XpM1SeKDhESAlDrHmM49LbqwR1GXbBAd5uBtYGL72EBcs18cxD+vJWPBeSuaa5wAa9JLA==",
+  "dgSpecHash": "aGBY1O+IzkddzJp0VH1QPw+hs58isKDURCDv+BTTqePOrRYiR5tFmwV8jiMOVXuBUYlFXTSaQslrcNl1KOBSyQ==",
   "success": true,
-  "projectFilePath": "D:\\Pessoal\\ChatBotBackend\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\Pessoal\\chatbot\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facosta\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.3\\microsoft.entityframeworkcore.5.0.3.nupkg.sha512",
     "C:\\Users\\facosta\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.3\\microsoft.entityframeworkcore.abstractions.5.0.3.nupkg.sha512",

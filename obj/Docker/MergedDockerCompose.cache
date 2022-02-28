@@ -1,7 +1,7 @@
 services:
   application:
     build:
-      context: D:\Pessoal\ChatBotBackend
+      context: D:\Pessoal\chatbot
       dockerfile: Application/Dockerfile
     depends_on:
       pdb:
@@ -32,6 +32,17 @@ services:
     restart: always
     volumes:
     - db_volume:/var/lib/postgresql/data:rw
+  webapp:
+    build:
+      context: D:\Pessoal\chatbot
+      dockerfile: chatbotwebapp/Dockerfile
+    depends_on:
+      application:
+        condition: service_started
+    image: node:14.18.1-alpine
+    ports:
+    - published: 3000
+      target: 3000
 version: '3.4'
 volumes:
   db_volume: {}

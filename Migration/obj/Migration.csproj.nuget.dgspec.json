@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pessoal\\ChatBotBackend\\Migration\\Migration.csproj": {}
+    "D:\\Pessoal\\chatbot\\Migration\\Migration.csproj": {}
   },
   "projects": {
-    "D:\\Pessoal\\ChatBotBackend\\Migration\\Migration.csproj": {
+    "D:\\Pessoal\\chatbot\\Migration\\Migration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pessoal\\ChatBotBackend\\Migration\\Migration.csproj",
+        "projectUniqueName": "D:\\Pessoal\\chatbot\\Migration\\Migration.csproj",
         "projectName": "Migration",
-        "projectPath": "D:\\Pessoal\\ChatBotBackend\\Migration\\Migration.csproj",
+        "projectPath": "D:\\Pessoal\\chatbot\\Migration\\Migration.csproj",
         "packagesPath": "C:\\Users\\facosta\\.nuget\\packages\\",
-        "outputPath": "D:\\Pessoal\\ChatBotBackend\\Migration\\obj\\",
+        "outputPath": "D:\\Pessoal\\chatbot\\Migration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

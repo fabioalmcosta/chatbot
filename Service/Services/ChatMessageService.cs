@@ -6,16 +6,12 @@ using Infrastructure.Exception;
 using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
 using Service.Hubs;
-using Service.Hubs.Interfaces;
 using Service.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net;
-using System.Net.Http;
-using System.Security.Claims;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Service.Services
@@ -170,9 +166,11 @@ namespace Service.Services
         {
             var chatList = await _chatMessageRepository.GetAllReadOnly()
                 .Where(x => (x.FromId == Int64.Parse(userId) && x.ToId == toId) || (x.ToId == Int64.Parse(userId) && x.FromId == toId))
-                .OrderBy(x => x.Date)
-                .TakeLast(50)
+                .OrderByDescending(x => x.Date)
+                .Take(50)
                 .ToListAsync();
+
+            chatList.Reverse();
 
             return chatList;
         }

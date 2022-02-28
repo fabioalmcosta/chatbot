@@ -10,3 +10,14 @@ D:\Pessoal\ChatBotBackend\Migration\obj\Release\net5.0\Migration.csproj.CoreComp
 D:\Pessoal\ChatBotBackend\Migration\obj\Release\net5.0\Migration.dll
 D:\Pessoal\ChatBotBackend\Migration\obj\Release\net5.0\ref\Migration.dll
 D:\Pessoal\ChatBotBackend\Migration\obj\Release\net5.0\Migration.pdb
+D:\Pessoal\chatbot\Migration\bin\Release\net5.0\Migration.deps.json
+D:\Pessoal\chatbot\Migration\bin\Release\net5.0\Migration.dll
+D:\Pessoal\chatbot\Migration\bin\Release\net5.0\ref\Migration.dll
+D:\Pessoal\chatbot\Migration\bin\Release\net5.0\Migration.pdb
+D:\Pessoal\chatbot\Migration\obj\Release\net5.0\Migration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\chatbot\Migration\obj\Release\net5.0\Migration.AssemblyInfoInputs.cache
+D:\Pessoal\chatbot\Migration\obj\Release\net5.0\Migration.AssemblyInfo.cs
+D:\Pessoal\chatbot\Migration\obj\Release\net5.0\Migration.csproj.CoreCompileInputs.cache
+D:\Pessoal\chatbot\Migration\obj\Release\net5.0\Migration.dll
+D:\Pessoal\chatbot\Migration\obj\Release\net5.0\ref\Migration.dll
+D:\Pessoal\chatbot\Migration\obj\Release\net5.0\Migration.pdb
