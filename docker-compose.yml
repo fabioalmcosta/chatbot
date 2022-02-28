@@ -1,0 +1,39 @@
+version: '3.4'
+
+services:
+  application:
+    image: ${DOCKER_REGISTRY-}application
+    build:
+      context: .
+      dockerfile: Application/Dockerfile
+    depends_on:
+        - pdb
+    ports:
+        - '5000:5000'
+        - '5001:5001'
+
+  webapp:
+    image: node:14.18.1-alpine
+    build:
+      context: .
+      dockerfile: chatbotwebapp/Dockerfile
+    depends_on:
+        - application
+    ports:
+        - '3000:3000'
+
+  pdb:
+    image: postgres:alpine
+    container_name: postgres_acomp
+    environment:
+        POSTGRES_USER: postgres
+        POSTGRES_PASSWORD: password
+        POSTGRES_DB: ChatBot
+    restart: always
+    volumes:
+          - db_volume:/var/lib/postgresql/data
+    ports:
+        - '5433:5432'
+
+volumes:
+  db_volume:

@@ -1,0 +1,12 @@
+D:\Pessoal\ChatBotBackend\Domain\bin\Release\net5.0\Domain.deps.json
+D:\Pessoal\ChatBotBackend\Domain\bin\Release\net5.0\Domain.dll
+D:\Pessoal\ChatBotBackend\Domain\bin\Release\net5.0\ref\Domain.dll
+D:\Pessoal\ChatBotBackend\Domain\bin\Release\net5.0\Domain.pdb
+D:\Pessoal\ChatBotBackend\Domain\obj\Release\net5.0\Domain.csproj.AssemblyReference.cache
+D:\Pessoal\ChatBotBackend\Domain\obj\Release\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\ChatBotBackend\Domain\obj\Release\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Pessoal\ChatBotBackend\Domain\obj\Release\net5.0\Domain.AssemblyInfo.cs
+D:\Pessoal\ChatBotBackend\Domain\obj\Release\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Pessoal\ChatBotBackend\Domain\obj\Release\net5.0\Domain.dll
+D:\Pessoal\ChatBotBackend\Domain\obj\Release\net5.0\ref\Domain.dll
+D:\Pessoal\ChatBotBackend\Domain\obj\Release\net5.0\Domain.pdb

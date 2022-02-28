@@ -1,0 +1,1 @@
+dotnet fm migrate -p postgres -c "User ID=postgres;Password=password;Host=localhost;Port=5433;Database=ChatBot;" -a ".\bin\Debug\net5.0\Migration.dll"

@@ -1,0 +1,9 @@
+D:\EST\chatBot-api\Migration\bin\Debug\netstandard2.0\Migration.deps.json
+D:\EST\chatBot-api\Migration\bin\Debug\netstandard2.0\Migration.dll
+D:\EST\chatBot-api\Migration\bin\Debug\netstandard2.0\Migration.pdb
+D:\EST\chatBot-api\Migration\obj\Debug\netstandard2.0\Migration.csprojAssemblyReference.cache
+D:\EST\chatBot-api\Migration\obj\Debug\netstandard2.0\Migration.AssemblyInfoInputs.cache
+D:\EST\chatBot-api\Migration\obj\Debug\netstandard2.0\Migration.AssemblyInfo.cs
+D:\EST\chatBot-api\Migration\obj\Debug\netstandard2.0\Migration.csproj.CoreCompileInputs.cache
+D:\EST\chatBot-api\Migration\obj\Debug\netstandard2.0\Migration.dll
+D:\EST\chatBot-api\Migration\obj\Debug\netstandard2.0\Migration.pdb

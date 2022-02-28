@@ -1,0 +1,48 @@
+services:
+  application:
+    build:
+      context: D:\Pessoal\ChatBotBackend
+      dockerfile: Application/Dockerfile
+    depends_on:
+      pdb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:5000
+    image: application
+    ports:
+    - published: 5000
+      target: 5000
+    - target: 5000
+    - published: 5001
+      target: 5001
+    - target: 5001
+    volumes:
+    - C:\Users\facosta\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+  pdb:
+    container_name: postgres_acomp
+    environment:
+      POSTGRES_DB: ChatBot
+      POSTGRES_PASSWORD: password
+      POSTGRES_USER: postgres
+    image: postgres:alpine
+    ports:
+    - published: 5433
+      target: 5432
+    restart: always
+    volumes:
+    - db_volume:/var/lib/postgresql/data:rw
+  webapp:
+    build:
+      context: D:\Pessoal\ChatBotBackend
+      dockerfile: chatbotwebapp/Dockerfile
+    depends_on:
+      application:
+        condition: service_started
+    image: node:14.18.1-alpine
+    ports:
+    - published: 3000
+      target: 3000
+version: '3.4'
+volumes:
+  db_volume: {}

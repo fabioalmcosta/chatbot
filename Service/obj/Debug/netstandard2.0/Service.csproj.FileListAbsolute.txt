@@ -1,0 +1,8 @@
+D:\dev\chatBot-api\Service\bin\Debug\netstandard2.0\Service.deps.json
+D:\dev\chatBot-api\Service\bin\Debug\netstandard2.0\Service.dll
+D:\dev\chatBot-api\Service\bin\Debug\netstandard2.0\Service.pdb
+D:\dev\chatBot-api\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+D:\dev\chatBot-api\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+D:\dev\chatBot-api\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+D:\dev\chatBot-api\Service\obj\Debug\netstandard2.0\Service.dll
+D:\dev\chatBot-api\Service\obj\Debug\netstandard2.0\Service.pdb
